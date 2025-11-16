@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/watch/17/+page.svelte";
